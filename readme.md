@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/TMPza2024/TMPza2024/blob/main/1.png">
+  <img src="https://github.com/TMPza2024/TMPza2024/blob/main/Image.png">
 </p>
 
 <p align="center">
