@@ -12,8 +12,7 @@
 
 <!-- Introduction -->
 <p align="center" style="font-size:16px; color: #333;">
-Step into my GitHub sanctuary! As a coding virtuoso and master of encryption, I'm dedicated to unraveling dark web mysteries and fortifying cyber defenses.
-Join me on this exhilarating journey!
+Step into my GitHub sanctuary! Immersed in the world of code and encryption, I navigate the intricacies of cybersecurity, mapping the territories of the dark web and bolstering digital fortifications. Join me on this exhilarating journey through the corridors of code!
 </p>
 
 <!-- Languages -->
